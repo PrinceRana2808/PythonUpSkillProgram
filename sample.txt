@@ -1,0 +1,12 @@
+This is a sample text file.
+
+It is created to demonstrate file handling in Python.
+You can use this file to practice reading, writing, and appending data.
+
+Python is a powerful and easy-to-learn programming language.
+It supports object-oriented programming, functional programming,
+and many built-in data structures like list, tuple, set, and dictionary.
+
+This is just dummy content for testing purposes.
+
+End of file.
